@@ -14,11 +14,11 @@ public class UserController {
 
     @PostMapping("/auth/login")
     public boolean login(@RequestBody User user){
-        return false;
+        return service.login(user);
     }
 
     @PostMapping("/register")
-    public String register(){
-        return "";
+    public String register(@RequestBody User user){
+        return service.register(user);
     }
 }
