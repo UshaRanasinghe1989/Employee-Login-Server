@@ -22,3 +22,5 @@ c
 3src/main/java/edu/icet/crm/service/UserService.java,b\3\b3f308aede5452fb7c3e21f875a8e140bcde8019
 l
 <src/main/java/edu/icet/crm/service/impl/UserServiceImpl.java,b\6\b655bbd2557bb292664e16ec39b1f6bb5003131f
+i
+9src/main/java/edu/icet/crm/repository/UserRepository.java,3\2\32abfb9ee7a24333b1899ad74b01db0212dff592
